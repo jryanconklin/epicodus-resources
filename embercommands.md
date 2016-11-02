@@ -27,6 +27,10 @@ Add emberfire for Database `ember install emberfire`
 
 Add Bootstrap for Styling `ember install ember-bootstrap`
 
+#### SASS
+
+ember install ember-cli-sass
+
 ### Create an Application Template
 
 `ember g template application`

@@ -3,10 +3,15 @@
 ## Workflow Overview
 
 1) Follow Start Project and Install Dependencies
+
 2) Create Application Template
+
 3) Create Root View (Index - Find All Maybe)
+
 4) Create Model
+
 5) Create Services
+
 6) Create Components, Computed Properties and Helpers (as Needed)
 
 ### Start a New Project and Install Dependences

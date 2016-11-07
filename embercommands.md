@@ -34,7 +34,11 @@ Add Bootstrap for Styling `ember install ember-bootstrap`
 
 #### SASS
 
-ember install ember-cli-sass
+`ember install ember-cli-sass`
+
+#### Ember d3
+
+`ember install ember-cli-d3`
 
 ### Create an Application Template
 
